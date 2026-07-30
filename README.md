@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
