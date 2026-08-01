@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
