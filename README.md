@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/KaranOdedra01/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/KaranOdedra01/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KaranOdedra01/DSA/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
