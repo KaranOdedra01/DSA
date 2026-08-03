@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/KaranOdedra01/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -37,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/KaranOdedra01/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
