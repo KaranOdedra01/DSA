@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranOdedra01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/KaranOdedra01/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KaranOdedra01/DSA/tree/master/0036-valid-sudoku) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranOdedra01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/KaranOdedra01/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/KaranOdedra01/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
