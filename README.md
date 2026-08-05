@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranOdedra01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KaranOdedra01/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3731-find-missing-elements](https://github.com/KaranOdedra01/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KaranOdedra01/DSA/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/KaranOdedra01/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/KaranOdedra01/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/KaranOdedra01/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
