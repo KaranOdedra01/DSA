@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KaranOdedra01/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/KaranOdedra01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/KaranOdedra01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KaranOdedra01/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/KaranOdedra01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranOdedra01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/KaranOdedra01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KaranOdedra01/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KaranOdedra01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
