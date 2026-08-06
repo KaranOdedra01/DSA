@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/KaranOdedra01/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/KaranOdedra01/DSA/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
