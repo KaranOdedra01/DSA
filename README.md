@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/KaranOdedra01/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/KaranOdedra01/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranOdedra01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KaranOdedra01/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KaranOdedra01/DSA/tree/master/0392-is-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/KaranOdedra01/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2129-capitalize-the-title](https://github.com/KaranOdedra01/DSA/tree/master/2129-capitalize-the-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
