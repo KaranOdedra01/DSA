@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/KaranOdedra01/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/KaranOdedra01/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/KaranOdedra01/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/KaranOdedra01/DSA/tree/master/2129-capitalize-the-title) |
 | [2864-maximum-odd-binary-number](https://github.com/KaranOdedra01/DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KaranOdedra01/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KaranOdedra01/DSA/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/KaranOdedra01/DSA/tree/master/1089-duplicate-zeros) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/KaranOdedra01/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Prefix Sum
 |  |
 | ------- |
