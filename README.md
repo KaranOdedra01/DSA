@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaranOdedra01/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaranOdedra01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaranOdedra01/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/KaranOdedra01/DSA/tree/master/0036-valid-sudoku) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaranOdedra01/DSA/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/KaranOdedra01/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaranOdedra01/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KaranOdedra01/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KaranOdedra01/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KaranOdedra01/DSA/tree/master/0151-reverse-words-in-a-string) |
