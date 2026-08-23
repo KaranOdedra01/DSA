@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/KaranOdedra01/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaranOdedra01/DSA/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/KaranOdedra01/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaranOdedra01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/KaranOdedra01/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaranOdedra01/DSA/tree/master/1927-sum-game) |
 | [2129-capitalize-the-title](https://github.com/KaranOdedra01/DSA/tree/master/2129-capitalize-the-title) |
 | [2864-maximum-odd-binary-number](https://github.com/KaranOdedra01/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaranOdedra01/DSA/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaranOdedra01/DSA/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/KaranOdedra01/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranOdedra01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranOdedra01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KaranOdedra01/DSA/tree/master/0075-sort-colors) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/KaranOdedra01/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
