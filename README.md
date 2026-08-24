@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/KaranOdedra01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/KaranOdedra01/DSA/tree/master/0704-binary-search) |
 | [1089-duplicate-zeros](https://github.com/KaranOdedra01/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaranOdedra01/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KaranOdedra01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/KaranOdedra01/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KaranOdedra01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
