@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranOdedra01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/KaranOdedra01/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/KaranOdedra01/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KaranOdedra01/DSA/tree/master/0125-valid-palindrome) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranOdedra01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/KaranOdedra01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/KaranOdedra01/DSA/tree/master/0392-is-subsequence) |
 ## Counting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranOdedra01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KaranOdedra01/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KaranOdedra01/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KaranOdedra01/DSA/tree/master/0125-valid-palindrome) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaranOdedra01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranOdedra01/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
