@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KaranOdedra01/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/KaranOdedra01/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/KaranOdedra01/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/KaranOdedra01/DSA/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/KaranOdedra01/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranOdedra01/DSA/tree/master/1903-largest-odd-number-in-string) |
