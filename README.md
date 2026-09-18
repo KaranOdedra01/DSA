@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KaranOdedra01/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KaranOdedra01/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/KaranOdedra01/DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/KaranOdedra01/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/KaranOdedra01/DSA/tree/master/1528-shuffle-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KaranOdedra01/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/KaranOdedra01/DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KaranOdedra01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranOdedra01/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KaranOdedra01/DSA/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,4 +227,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaranOdedra01/DSA/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
