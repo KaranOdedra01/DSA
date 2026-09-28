@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KaranOdedra01/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/KaranOdedra01/DSA/tree/master/1089-duplicate-zeros) |
+| [1095-find-in-mountain-array](https://github.com/KaranOdedra01/DSA/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranOdedra01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/KaranOdedra01/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranOdedra01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KaranOdedra01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaranOdedra01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/KaranOdedra01/DSA/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/KaranOdedra01/DSA/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KaranOdedra01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/KaranOdedra01/DSA/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/KaranOdedra01/DSA/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/KaranOdedra01/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
